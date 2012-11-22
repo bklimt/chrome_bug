@@ -1,5 +1,3 @@
-// Copyright 2009 Google Inc. All Rights Reserved.
-// Author: klimt@google.com (Bryan Klimt)
 
 #include <math.h>
 #include <stdio.h>
